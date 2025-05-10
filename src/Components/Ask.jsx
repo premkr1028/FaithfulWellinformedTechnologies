@@ -2,7 +2,7 @@ export default function Ask({swapYes}){
  
   return(
     <div className="flex justify-center items-center flex-col text-center">
-    <h2 className="text-2xl">madurima</h2>
+    <h2 className="text-2xl">Madhurima</h2>
       <p className="text-[20px]">Actually, I wanna tell you something...</p>
       <p className="text-wheat/50">Would you like to hear yaa fir watch it?</p>
       <div id="btns" className="mt-[10px] flex gap-[15px]">
